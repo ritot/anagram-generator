@@ -1,2 +1,2 @@
 # anagram-generator
-Creates a list of anagrams given a word
+Given a word, creates an array of unique anagrams that can be sorted alphabetically or by number of words.
